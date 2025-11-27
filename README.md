@@ -1,0 +1,2 @@
+# automate-shell
+all automate 
